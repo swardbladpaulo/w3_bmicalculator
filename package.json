@@ -18,5 +18,8 @@
   "homepage": "https://github.com/swardbladpaulo/w3_bmicalculator#readme",
   "devDependencies": {
     "cypress": "^5.4.0"
+  },
+  "dependencies": {
+    "superstatic": "^7.0.1"
   }
 }
